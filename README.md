@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/tcBnXhX/code-banner.gif" alt="Coding Banner" width="100%" />
 </p>
 
-# 👋 Hi, I'm Noman Khan  
+# 👋 Hi, I'm Muhammad Noman  
 
 💻 **Frontend Developer** | 🤖 **AI Enthusiast** | 📚 **Learner for Life**  
 
